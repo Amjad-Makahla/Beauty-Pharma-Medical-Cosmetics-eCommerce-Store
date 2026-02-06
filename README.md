@@ -1,2 +1,26 @@
-# Beauty-Pharma-Medical-Cosmetics-eCommerce-Store
-Beauty Pharma is a multi-category, web-based medical cosmetics eCommerce platform. It supports full online shopping functionality, including payments implemented entirely using APIs.  The system includes advanced features such as delivery tracking, location services The platform is fully bilingual, supporting both Arabic and English.
+# Beauty Pharma – Medical Cosmetics eCommerce Platform
+
+Beauty Pharma is a multi-category medical cosmetics eCommerce platform.
+It provides a complete online shopping experience with advanced backend functionality.
+
+## Features
+- Multi-category product system
+- API-based payment integration
+- Inventory and stock management
+- Delivery tracking system
+- Location services
+- Daily product offers
+- Admin dashboard
+- Bilingual support (Arabic & English)
+
+## Target Users
+Customers looking for medical and cosmetic products with reliable delivery and secure payments.
+
+## Tech Stack
+- PHP
+- MySQL
+- REST APIs
+- HTML / CSS
+- JavaScript
+
+🔒 Source code is private and available upon request.
