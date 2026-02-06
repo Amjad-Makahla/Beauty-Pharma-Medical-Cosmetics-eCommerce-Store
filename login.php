@@ -1,57 +1,47 @@
-<?php include 'offer_nav.php'; ?>
-<?php include 'nav.php'; ?>
+<?php
+require_once('config.php');
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Login | Beauty Pharma</title>
+// === Configuration ===
+$request_method = "POST";
+$required_fields = ["username", "password"];
+validate_request_method($request_method);
+$data = validate_request_body($request_method, $required_fields);
 
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet"/>
-  <link rel="stylesheet" href="assets/css/styles.css"/>
-</head>
-<body>
+// === Logic ===
+function login($data) {
+    global $pdo;
 
-<section class="d-flex align-items-center justify-content-center login-wrapper">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-10">
-        <div class="row login-card bg-white">
-          
-          <!-- Left: Form -->
-          <div class="col-md-6 login-form-container">
-            <h3 class="auth-title text-center">Welcome Back</h3>
-           <form id="loginForm">
-  <div class="mb-3">
-    <label class="form-label">Email Address</label>
-    <input type="email" id="email" name="email" class="form-control" required>
-  </div>
-  <div class="mb-3">
-    <label class="form-label">Password</label>
-    <input type="password" id="password" name="password" class="form-control" required>
-  </div>
-  <button type="submit" class="btn btn-primary-custom w-100 mt-2">Login</button>
-</form>
+    $username = trim($data['username']);
+    $password = trim($data['password']);
 
-            <p class="text-center mt-3">Don't have an account? 
-              <a href="signup.php" class="text-decoration-none" style="color: var(--color-primary);">Sign up</a>
-            </p>
-          </div>
+    // Check if user exists
+    $stmt = $pdo->prepare("SELECT id, username, password FROM admin WHERE username = ? AND status = 1 LIMIT 1");
+    $stmt->execute([$username]);
+    $user = $stmt->fetch(PDO::FETCH_ASSOC);
 
-          <!-- Right: Image -->
-          <div class="col-md-6 d-none d-md-block login-image"></div>
+    if (!$user) {
+        print_response(false, "بيانات الدخول غير صحيحة.");
+    }
 
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+    // Check password
+    if (!password_verify($password, $user['password'])) {
+        print_response(false, "بيانات الدخول غير صحيحة.");
+    }
 
-<?php include 'footer.php'; ?>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-<script type="module" src="assets/js/login.js"></script>
+    // Optionally remove password before returning
+    unset($user['password']);
 
-</body>
-</html>
+    print_response(true, "تم تسجيل الدخول بنجاح.", $user);
+}
+
+// === Execute ===
+login($data);
+
+// === Helper function ===
+function print_response($success, $message, $data = null) {
+    $response = ['status' => $success ? 'ok' : 'error', 'message' => $message];
+    if ($data) $response['data'] = $data;
+    echo json_encode($response);
+    exit;
+}
+?>

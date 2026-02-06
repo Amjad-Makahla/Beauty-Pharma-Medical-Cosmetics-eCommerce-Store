@@ -1,0 +1,3321 @@
+[21-Jul-2025 11:04:24 Europe/Berlin] Array
+(
+    [is_live] => 
+)
+
+[21-Jul-2025 11:04:24 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:103
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(103): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 103
+[21-Jul-2025 11:05:23 Europe/Berlin] Array
+(
+    [is_live] => 
+)
+
+[21-Jul-2025 11:05:23 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:103
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(103): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 103
+[21-Jul-2025 11:10:09 Europe/Berlin] Array
+(
+    [brand] => HairLux
+    [category] => 3
+    [price] => 10-25
+    [is_live] => 
+)
+
+[21-Jul-2025 11:10:09 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:103
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(103): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 103
+[21-Jul-2025 11:12:09 Europe/Berlin] Array
+(
+    [brand] => HairLux
+    [category] => 3
+    [price] => 10-25
+    [is_live] => 
+)
+
+[21-Jul-2025 11:12:09 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[21-Jul-2025 12:30:11 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[21-Jul-2025 12:30:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[21-Jul-2025 12:30:49 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[21-Jul-2025 12:30:49 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[21-Jul-2025 13:12:54 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[21-Jul-2025 13:12:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[21-Jul-2025 13:21:50 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[21-Jul-2025 13:21:50 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 07:25:25 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 07:25:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:45:39 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:45:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:45:47 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:45:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:46:04 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:46:04 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:46:56 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:46:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:47:22 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:47:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:48:31 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:48:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:48:36 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:48:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:48:41 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:48:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:49:39 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:49:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:50:33 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => PureSkin
+    [category_id] => 3
+    [price_min] => 25
+    [price_max] => 50
+    [is_live] => 
+)
+
+[23-Jul-2025 08:50:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:50:35 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => PureSkin
+    [category_id] => 3
+    [price_min] => 25
+    [price_max] => 50
+    [is_live] => 
+)
+
+[23-Jul-2025 08:50:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:51:11 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:51:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:51:23 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:51:23 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:51:29 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:51:29 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:57:39 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:57:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:57:48 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:57:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 08:58:12 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 08:58:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 09:01:02 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 09:01:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 09:02:43 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 09:02:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 09:43:55 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 09:43:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 09:44:03 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 09:44:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 09:44:07 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 09:44:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 09:44:10 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 09:44:10 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 12:15:03 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 12:15:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 12:45:19 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 12:45:19 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 12:51:34 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 12:51:34 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 12:51:52 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 12:51:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 12:54:03 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 12:54:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 12:54:45 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 12:54:45 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'beauty_pharma.brands' doesn't exist in D:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 D:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in D:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Jul-2025 11:27:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.products' doesn't exist in /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_home_page.php:15
+Stack trace:
+#0 /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_home_page.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_home_page.php on line 15
+[23-Jul-2025 11:28:07 UTC] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 11:28:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php:105
+Stack trace:
+#0 /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php(105): mysqli->prepare()
+#1 {main}
+  thrown in /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php on line 105
+[23-Jul-2025 11:41:14 UTC] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 11:41:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php:105
+Stack trace:
+#0 /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php(105): mysqli->prepare()
+#1 {main}
+  thrown in /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php on line 105
+[23-Jul-2025 11:42:11 UTC] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 11:42:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php:105
+Stack trace:
+#0 /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php(105): mysqli->prepare()
+#1 {main}
+  thrown in /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php on line 105
+[23-Jul-2025 13:23:59 UTC] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 13:23:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php:105
+Stack trace:
+#0 /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php(105): mysqli->prepare()
+#1 {main}
+  thrown in /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php on line 105
+[23-Jul-2025 13:25:47 UTC] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Jul-2025 13:25:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php:105
+Stack trace:
+#0 /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php(105): mysqli->prepare()
+#1 {main}
+  thrown in /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php on line 105
+[23-Jul-2025 13:25:57 UTC] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 25
+    [price_max] => 50
+    [is_live] => 
+)
+
+[23-Jul-2025 13:25:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php:105
+Stack trace:
+#0 /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php(105): mysqli->prepare()
+#1 {main}
+  thrown in /home/u247349439/domains/brown-zebra-934639.hostingersite.com/public_html/api/get_products.php on line 105
+[18-Aug-2025 13:46:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'u247349439_beauty_pharma'@'localhost' (using password: YES) in C:\xampp\htdocs\beauty_pharma\controls\connection.php:9
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\controls\connection.php(9): mysqli->__construct('localhost', 'u247349439_beau...', Object(SensitiveParameterValue), 'u247349439_beau...')
+#1 C:\xampp\htdocs\beauty_pharma\api\config.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\controls\connection.php on line 9
+[18-Aug-2025 13:47:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'u247349439_beauty_pharma'@'localhost' (using password: YES) in C:\xampp\htdocs\beauty_pharma\controls\connection.php:9
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\controls\connection.php(9): mysqli->__construct('localhost', 'u247349439_beau...', Object(SensitiveParameterValue), 'u247349439_beau...')
+#1 C:\xampp\htdocs\beauty_pharma\api\config.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\beauty_pharma\api\get_filter_options.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\controls\connection.php on line 9
+[18-Aug-2025 13:47:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'u247349439_beauty_pharma'@'localhost' (using password: YES) in C:\xampp\htdocs\beauty_pharma\controls\connection.php:9
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\controls\connection.php(9): mysqli->__construct('localhost', 'u247349439_beau...', Object(SensitiveParameterValue), 'u247349439_beau...')
+#1 C:\xampp\htdocs\beauty_pharma\api\config.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\beauty_pharma\api\get_products.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\controls\connection.php on line 9
+[18-Aug-2025 13:51:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'u247349439_beauty_pharma'@'localhost' (using password: YES) in C:\xampp\htdocs\beauty_pharma\controls\connection.php:9
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\controls\connection.php(9): mysqli->__construct('localhost', 'u247349439_beau...', Object(SensitiveParameterValue), 'u247349439_beau...')
+#1 C:\xampp\htdocs\beauty_pharma\api\config.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\beauty_pharma\api\get_filter_options.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\controls\connection.php on line 9
+[18-Aug-2025 13:51:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'u247349439_beauty_pharma'@'localhost' (using password: YES) in C:\xampp\htdocs\beauty_pharma\controls\connection.php:9
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\controls\connection.php(9): mysqli->__construct('localhost', 'u247349439_beau...', Object(SensitiveParameterValue), 'u247349439_beau...')
+#1 C:\xampp\htdocs\beauty_pharma\api\config.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\beauty_pharma\api\get_products.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\controls\connection.php on line 9
+[18-Aug-2025 13:52:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'u247349439_beauty_pharma'@'localhost' (using password: YES) in C:\xampp\htdocs\beauty_pharma\controls\connection.php:9
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\controls\connection.php(9): mysqli->__construct('localhost', 'u247349439_beau...', Object(SensitiveParameterValue), 'u247349439_beau...')
+#1 C:\xampp\htdocs\beauty_pharma\api\config.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\beauty_pharma\api\get_products.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\controls\connection.php on line 9
+[18-Aug-2025 13:52:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'u247349439_beauty_pharma'@'localhost' (using password: YES) in C:\xampp\htdocs\beauty_pharma\controls\connection.php:9
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\controls\connection.php(9): mysqli->__construct('localhost', 'u247349439_beau...', Object(SensitiveParameterValue), 'u247349439_beau...')
+#1 C:\xampp\htdocs\beauty_pharma\api\config.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\beauty_pharma\api\get_filter_options.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\controls\connection.php on line 9
+[18-Aug-2025 13:52:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'u247349439_beauty_pharma'@'localhost' (using password: YES) in C:\xampp\htdocs\beauty_pharma\controls\connection.php:9
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\controls\connection.php(9): mysqli->__construct('localhost', 'u247349439_beau...', Object(SensitiveParameterValue), 'u247349439_beau...')
+#1 C:\xampp\htdocs\beauty_pharma\api\config.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\beauty_pharma\api\get_products.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\controls\connection.php on line 9
+[20-Aug-2025 13:10:21 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[20-Aug-2025 13:10:21 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[20-Aug-2025 13:10:26 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[20-Aug-2025 13:10:26 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[20-Aug-2025 13:14:07 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[20-Aug-2025 13:14:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[21-Aug-2025 13:40:19 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[21-Aug-2025 13:40:19 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[26-Aug-2025 11:42:22 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[26-Aug-2025 11:42:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[31-Aug-2025 11:33:01 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[31-Aug-2025 11:33:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[01-Sep-2025 14:48:09 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[01-Sep-2025 14:48:09 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[01-Sep-2025 14:48:09 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[01-Sep-2025 14:48:09 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[01-Sep-2025 18:37:22 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[01-Sep-2025 18:37:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[10-Sep-2025 17:54:19 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[15-Sep-2025 17:12:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[15-Sep-2025 17:22:38 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[15-Sep-2025 17:22:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[21-Sep-2025 17:33:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[21-Sep-2025 17:34:04 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[21-Sep-2025 17:34:04 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[21-Sep-2025 18:40:08 Europe/Berlin] Array
+(
+    [name] => Amjad Makahla
+    [email] => amjad_test1@example.com
+    [phone] => 0795123456
+    [password] => Test@1234
+    [cpassword] => Test@1234
+)
+
+[21-Sep-2025 18:54:22 Europe/Berlin] Array
+(
+    [name] => Noor Aldeen
+    [email] => alxmasdlmsakld@gmail.com
+    [phone] => 07975320129
+    [password] => makahla3
+    [cpassword] => makahla3
+    [is_live] => 
+)
+
+[21-Sep-2025 18:58:51 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+)
+
+[21-Sep-2025 19:09:33 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => test@1234
+    [is_live] => 
+)
+
+[21-Sep-2025 19:09:47 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+    [is_live] => 
+)
+
+[21-Sep-2025 19:09:47 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [is_live] => 
+)
+
+[21-Sep-2025 19:10:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[21-Sep-2025 19:12:08 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@123
+    [is_live] => 
+)
+
+[21-Sep-2025 19:12:10 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+    [is_live] => 
+)
+
+[21-Sep-2025 19:12:10 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [is_live] => 
+)
+
+[21-Sep-2025 19:12:10 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[21-Sep-2025 20:23:00 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[21-Sep-2025 20:23:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[21-Sep-2025 20:23:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[21-Sep-2025 20:25:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[22-Sep-2025 16:53:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\beauty_pharma\controls\connection.php:9
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\controls\connection.php(9): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'u247349439_beau...')
+#1 C:\xampp\htdocs\beauty_pharma\api\config.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(2): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\controls\connection.php on line 9
+[22-Sep-2025 17:40:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[23-Sep-2025 16:44:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[23-Sep-2025 16:49:32 Europe/Berlin] Array
+(
+    [email] => alice@example.com
+    [password] => hashedpassword1
+    [is_live] => 
+)
+
+[23-Sep-2025 16:50:09 Europe/Berlin] Array
+(
+    [email] => alice@example.com
+    [password] => makahla3
+    [is_live] => 
+)
+
+[23-Sep-2025 16:50:48 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+    [is_live] => 
+)
+
+[23-Sep-2025 16:50:48 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [is_live] => 
+)
+
+[23-Sep-2025 16:50:49 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[23-Sep-2025 16:51:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[23-Sep-2025 17:05:05 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+)
+
+[23-Sep-2025 17:07:12 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+)
+
+[23-Sep-2025 17:35:35 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+    [is_live] => 
+)
+
+[23-Sep-2025 17:35:35 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [is_live] => 
+)
+
+[23-Sep-2025 17:35:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[23-Sep-2025 17:43:41 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+    [is_live] => 
+)
+
+[23-Sep-2025 17:43:41 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [is_live] => 
+)
+
+[23-Sep-2025 17:43:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[23-Sep-2025 17:47:45 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'address' in 'field list' in C:\xampp\htdocs\beauty_pharma\api\get_profile.php:14
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_profile.php(14): mysqli->prepare('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_profile.php on line 14
+[23-Sep-2025 18:08:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'address' in 'field list' in C:\xampp\htdocs\beauty_pharma\api\get_profile.php:17
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_profile.php(17): mysqli->prepare('SELECT id, name...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_profile.php on line 17
+[23-Sep-2025 18:49:03 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+    [is_live] => 
+)
+
+[23-Sep-2025 18:49:03 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [is_live] => 
+)
+
+[23-Sep-2025 18:49:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[23-Sep-2025 18:49:31 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test1234
+    [is_live] => 
+)
+
+[23-Sep-2025 18:49:36 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+    [is_live] => 
+)
+
+[23-Sep-2025 18:49:37 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [is_live] => 
+)
+
+[23-Sep-2025 18:49:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[23-Sep-2025 18:59:20 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+    [is_live] => 
+)
+
+[23-Sep-2025 18:59:20 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [is_live] => 
+)
+
+[23-Sep-2025 18:59:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[23-Sep-2025 18:59:52 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Sep-2025 18:59:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Sep-2025 18:59:55 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Sep-2025 18:59:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Sep-2025 19:00:03 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[23-Sep-2025 19:00:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[23-Sep-2025 19:01:57 Europe/Berlin] Array
+(
+    [name] => amjad
+    [email] => makahla40@gmail.com
+    [phone] => 0795230129
+    [password] => makahla3
+    [cpassword] => makahla3
+    [is_live] => 
+)
+
+[23-Sep-2025 19:02:07 Europe/Berlin] Array
+(
+    [email] => makahla40@gmail.com
+    [password] => makahla3
+    [is_live] => 
+)
+
+[23-Sep-2025 19:02:07 Europe/Berlin] Array
+(
+    [user_id] => 5
+    [is_live] => 
+)
+
+[23-Sep-2025 19:02:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[23-Sep-2025 19:03:33 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+    [is_live] => 
+)
+
+[23-Sep-2025 19:03:33 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [is_live] => 
+)
+
+[23-Sep-2025 19:03:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[23-Sep-2025 19:40:39 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+    [is_live] => 
+)
+
+[23-Sep-2025 19:40:39 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [is_live] => 
+)
+
+[23-Sep-2025 19:40:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[23-Sep-2025 19:40:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.cart' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_cart.php:16
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_cart.php(16): mysqli->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_cart.php on line 16
+[23-Sep-2025 19:41:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.cart' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_cart.php:16
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_cart.php(16): mysqli->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_cart.php on line 16
+[23-Sep-2025 19:41:23 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.cart' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_cart.php:16
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_cart.php(16): mysqli->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_cart.php on line 16
+[23-Sep-2025 19:51:09 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+)
+
+[23-Sep-2025 20:06:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.cart' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_cart.php:35
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_cart.php(35): mysqli->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_cart.php on line 35
+[23-Sep-2025 23:05:39 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+    [is_live] => 
+)
+
+[23-Sep-2025 23:05:39 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [is_live] => 
+)
+
+[23-Sep-2025 23:05:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[24-Sep-2025 00:00:33 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+    [is_live] => 
+)
+
+[24-Sep-2025 00:00:33 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [is_live] => 
+)
+
+[24-Sep-2025 00:00:34 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[24-Sep-2025 00:02:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[24-Sep-2025 17:42:03 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+    [is_live] => 
+)
+
+[24-Sep-2025 17:42:03 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [is_live] => 
+)
+
+[24-Sep-2025 17:42:04 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[24-Sep-2025 17:42:12 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[24-Sep-2025 17:42:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[24-Sep-2025 18:23:25 Europe/Berlin] Array
+(
+    [favorite_id] => 3
+    [action] => remove
+    [is_live] => 
+)
+
+[24-Sep-2025 18:27:45 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[24-Sep-2025 18:28:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[24-Sep-2025 18:46:52 Europe/Berlin] Array
+(
+    [favorite_id] => 3
+    [action] => remove
+    [is_live] => 
+)
+
+[24-Sep-2025 18:53:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[24-Sep-2025 18:54:08 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[24-Sep-2025 18:54:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[24-Sep-2025 18:54:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[24-Sep-2025 18:54:35 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[24-Sep-2025 18:54:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[24-Sep-2025 18:54:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[24-Sep-2025 18:55:00 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[24-Sep-2025 18:55:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[24-Sep-2025 18:56:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[24-Sep-2025 18:56:44 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[24-Sep-2025 18:56:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[25-Sep-2025 16:39:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[25-Sep-2025 16:39:05 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[25-Sep-2025 16:39:05 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[25-Sep-2025 16:40:15 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[25-Sep-2025 16:40:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 14:27:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[28-Sep-2025 14:28:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[28-Sep-2025 14:28:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.product_sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(15): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 15
+[28-Sep-2025 17:24:18 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.is_daily_deal' in 'where clause' in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php:17
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_home_page.php(17): mysqli->prepare('\r\n  SELECT p.id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_home_page.php on line 17
+[28-Sep-2025 17:27:41 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 17:27:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 17:30:51 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 17:30:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 17:30:58 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 17:30:58 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 17:31:01 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 17:31:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:12:32 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:12:32 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:12:36 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:12:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:26:46 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:26:46 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:26:50 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:26:50 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:26:52 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:26:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:26:57 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:26:57 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:27:03 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:27:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:27:05 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:27:05 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:27:08 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:27:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:34:26 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:34:26 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:40:36 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:40:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:40:42 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:40:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:40:44 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:40:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:40:46 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:40:46 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:41:02 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:41:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:41:06 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:41:06 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:41:09 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:41:09 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:41:11 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:41:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:43:58 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:43:58 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:44:03 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:44:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:44:06 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:44:06 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:44:07 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:44:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:44:20 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:44:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:44:22 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:44:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:44:52 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 18:44:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 18:58:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.sub_categories' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_single_product.php:15
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_single_product.php(15): mysqli->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_single_product.php on line 15
+[28-Sep-2025 20:30:44 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[28-Sep-2025 20:30:44 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[28-Sep-2025 20:44:11 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 3
+)
+
+[28-Sep-2025 20:46:53 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 3
+)
+
+[28-Sep-2025 20:47:08 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 18
+)
+
+[28-Sep-2025 20:47:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[28-Sep-2025 20:47:16 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 13
+)
+
+[28-Sep-2025 20:47:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[28-Sep-2025 20:47:39 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 41
+)
+
+[28-Sep-2025 21:06:41 Europe/Berlin] Array
+(
+    [email] => amjad_test1@example.com
+    [password] => Test@1234
+    [is_live] => 
+)
+
+[28-Sep-2025 21:06:42 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [is_live] => 
+)
+
+[29-Sep-2025 16:30:54 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 123
+    [is_live] => 
+)
+
+[29-Sep-2025 16:30:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 16:31:02 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 123
+    [is_live] => 
+)
+
+[29-Sep-2025 16:31:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 16:31:13 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 41
+)
+
+[29-Sep-2025 16:31:20 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 123
+    [is_live] => 
+)
+
+[29-Sep-2025 16:31:21 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 16:39:38 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 123
+    [is_live] => 
+)
+
+[29-Sep-2025 16:39:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 16:42:30 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 41
+)
+
+[29-Sep-2025 16:45:51 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 123
+    [is_live] => 
+)
+
+[29-Sep-2025 16:45:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 16:45:58 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 123
+    [is_live] => 
+)
+
+[29-Sep-2025 16:45:58 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 16:46:19 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [is_live] => 
+)
+
+[29-Sep-2025 16:46:25 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 123
+    [is_live] => 
+)
+
+[29-Sep-2025 16:46:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 16:46:39 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [is_live] => 
+)
+
+[29-Sep-2025 16:47:57 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [is_live] => 
+)
+
+[29-Sep-2025 16:48:05 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[29-Sep-2025 16:48:05 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[29-Sep-2025 16:48:13 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 123
+    [is_live] => 
+)
+
+[29-Sep-2025 16:48:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 16:48:17 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 3
+    [is_live] => 
+)
+
+[29-Sep-2025 16:48:45 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 3
+    [is_live] => 
+)
+
+[29-Sep-2025 16:48:57 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 123
+    [is_live] => 
+)
+
+[29-Sep-2025 16:48:57 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 16:49:09 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 123
+    [is_live] => 
+)
+
+[29-Sep-2025 16:49:10 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 16:49:12 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [is_live] => 
+)
+
+[29-Sep-2025 16:54:58 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => {{product.id}}
+    [is_live] => 
+)
+
+[29-Sep-2025 16:54:58 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 16:55:08 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => {{product.id}}
+    [is_live] => 
+)
+
+[29-Sep-2025 16:55:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 16:55:10 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => {{product.id}}
+    [is_live] => 
+)
+
+[29-Sep-2025 16:55:10 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 17:00:00 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => {{product_id}}
+    [is_live] => 
+)
+
+[29-Sep-2025 17:00:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 17:05:02 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>31</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 17:05:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 17:09:40 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $i in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>31</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 17:09:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 17:09:50 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>31</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 17:09:50 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 17:14:05 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>31</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 17:14:06 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 17:14:33 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>31</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 17:14:34 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_favorite`, CONSTRAINT `user_favorite_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php:26
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_wishlist.php on line 26
+[29-Sep-2025 17:21:49 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [is_live] => 
+)
+
+[29-Sep-2025 17:22:00 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [is_live] => 
+)
+
+[29-Sep-2025 17:22:06 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [is_live] => 
+)
+
+[29-Sep-2025 17:22:11 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 17:22:20 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [is_live] => 
+)
+
+[29-Sep-2025 17:22:37 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 3
+    [is_live] => 
+)
+
+[29-Sep-2025 17:28:38 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 41
+    [quantity] => 2
+)
+
+[29-Sep-2025 17:34:39 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>57</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 17:34:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 17:35:52 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 17:36:10 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 17:38:01 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>57</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 17:38:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 17:42:16 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>57</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 17:42:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 17:42:24 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>57</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 17:42:24 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 17:42:43 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 17:57:05 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 18:03:47 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 18:03:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 18:12:49 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 18:12:49 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 18:13:35 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 18:13:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 18:17:20 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 18:17:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 18:20:21 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 18:20:21 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 18:20:31 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 18:20:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 18:20:45 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 18:25:30 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 18:25:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 18:25:43 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 2
+    [is_live] => 
+)
+
+[29-Sep-2025 18:25:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 18:38:14 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 2
+)
+
+[29-Sep-2025 18:52:27 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 18:52:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 18:53:19 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 18:53:19 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 18:55:02 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 2
+)
+
+[29-Sep-2025 18:55:13 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 18:55:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 18:57:35 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 18:57:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 18:59:39 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 2
+)
+
+[29-Sep-2025 19:01:21 Europe/Berlin] PHP Fatal error:  Cannot redeclare print_response() (previously declared in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:6) in C:\xampp\htdocs\beauty_pharma\controls\api_response.php on line 73
+[29-Sep-2025 19:19:45 Europe/Berlin] PHP Fatal error:  Cannot redeclare print_response() (previously declared in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:6) in C:\xampp\htdocs\beauty_pharma\controls\api_response.php on line 73
+[29-Sep-2025 19:20:53 Europe/Berlin] PHP Fatal error:  Cannot redeclare print_response() (previously declared in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:6) in C:\xampp\htdocs\beauty_pharma\controls\api_response.php on line 73
+[29-Sep-2025 19:21:23 Europe/Berlin] PHP Fatal error:  Cannot redeclare print_response() (previously declared in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:6) in C:\xampp\htdocs\beauty_pharma\controls\api_response.php on line 73
+[29-Sep-2025 19:21:55 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 2
+)
+
+[29-Sep-2025 19:22:10 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 2
+)
+
+[29-Sep-2025 19:22:31 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 19:22:44 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 19:24:13 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 19:24:28 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 19:26:50 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 19:36:28 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 19:36:34 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 19:36:40 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 19:36:48 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 19:36:54 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 19:43:21 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 2
+)
+
+[29-Sep-2025 19:50:31 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 3
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 19:50:45 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 3
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 19:56:13 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [is_live] => 
+)
+
+[29-Sep-2025 19:57:46 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 2
+)
+
+[29-Sep-2025 19:58:18 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 2
+)
+
+[29-Sep-2025 19:58:49 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 19:59:15 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 3
+    [is_live] => 
+)
+
+[29-Sep-2025 19:59:17 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 3
+    [is_live] => 
+)
+
+[29-Sep-2025 19:59:27 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 3
+    [is_live] => 
+)
+
+[29-Sep-2025 20:00:42 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:00:48 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:00:52 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:00:57 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:01:43 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 2
+)
+
+[29-Sep-2025 20:01:47 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:01:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 20:02:31 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 2
+)
+
+[29-Sep-2025 20:03:13 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:03:27 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 2
+)
+
+[29-Sep-2025 20:03:38 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:03:44 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:03:49 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:04:40 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [quantity] => 2
+)
+
+[29-Sep-2025 20:04:50 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:04:56 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:05:08 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:07:11 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:07:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 20:08:55 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:08:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 20:10:08 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:10:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 20:22:37 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:22:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 20:23:05 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:23:06 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 20:23:31 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:23:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 20:25:58 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:25:58 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 20:28:05 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 1
+    [is_live] => 
+)
+
+[29-Sep-2025 20:28:05 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 20:28:24 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 2
+    [is_live] => 
+)
+
+[29-Sep-2025 20:28:24 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 20:28:28 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [quantity] => 2
+    [is_live] => 
+)
+
+[29-Sep-2025 20:28:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 20:34:57 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => <br />
+<b>Warning</b>:  Undefined variable $product_id in <b>C:\xampp\htdocs\beauty_pharma\single_product.php</b> on line <b>59</b><br />
+
+    [is_live] => 
+)
+
+[29-Sep-2025 20:34:57 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 20:37:54 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 123
+    [is_live] => 
+)
+
+[29-Sep-2025 20:37:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`u247349439_beauty_pharma`.`user_cart`, CONSTRAINT `user_cart_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`)) in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php:32
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\add_to_cart.php on line 32
+[29-Sep-2025 20:39:55 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[29-Sep-2025 20:39:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:105
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(105): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 105
+[29-Sep-2025 20:43:43 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[29-Sep-2025 20:43:43 Europe/Berlin] PHP Warning:  Undefined variable $sub_category_id in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 43
+[29-Sep-2025 20:43:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:104
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(104): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 104
+[29-Sep-2025 20:43:56 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => GlowBeauty
+    [category_id] => 15
+    [price_min] => 25
+    [price_max] => 50
+    [is_live] => 
+)
+
+[29-Sep-2025 20:43:56 Europe/Berlin] PHP Warning:  Undefined variable $sub_category_id in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 43
+[29-Sep-2025 20:43:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:104
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(104): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 104
+[29-Sep-2025 20:46:53 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[29-Sep-2025 20:46:53 Europe/Berlin] PHP Warning:  Undefined variable $sub_category_id in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 43
+[29-Sep-2025 20:46:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:104
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(104): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 104
+[29-Sep-2025 20:49:36 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[29-Sep-2025 20:49:36 Europe/Berlin] PHP Warning:  Undefined variable $sub_category_id in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 43
+[29-Sep-2025 20:49:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:104
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(104): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 104
+[29-Sep-2025 21:23:37 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [is_live] => 
+)
+
+[29-Sep-2025 21:23:38 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 2
+    [is_live] => 
+)
+
+[29-Sep-2025 21:25:46 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[29-Sep-2025 21:25:46 Europe/Berlin] PHP Warning:  Undefined variable $sub_category_id in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 43
+[29-Sep-2025 21:25:46 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:104
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(104): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 104
+[30-Sep-2025 14:16:19 Europe/Berlin] Array
+(
+    [user_id] => 3
+    [product_id] => 1
+    [is_live] => 
+)
+
+[29-Oct-2025 12:50:08 Europe/Berlin] Array
+(
+    [user_id] => 
+    [brand] => 
+    [category_id] => 
+    [price_min] => 
+    [price_max] => 
+    [is_live] => 
+)
+
+[29-Oct-2025 12:50:09 Europe/Berlin] PHP Warning:  Undefined variable $sub_category_id in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 43
+[29-Oct-2025 12:50:09 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u247349439_beauty_pharma.brands' doesn't exist in C:\xampp\htdocs\beauty_pharma\api\get_products.php:104
+Stack trace:
+#0 C:\xampp\htdocs\beauty_pharma\api\get_products.php(104): mysqli->prepare('\r\n  SELECT DIST...')
+#1 {main}
+  thrown in C:\xampp\htdocs\beauty_pharma\api\get_products.php on line 104
