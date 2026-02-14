@@ -23,4 +23,4 @@ Customers looking for medical and cosmetic products with reliable delivery and s
 - HTML / CSS
 - JavaScript
 
-🔒 Source code is private and available upon request.
+
